@@ -1,2 +1,2 @@
 # .github
-Czero enables AI-driven software development
+Czero enables rediscovery of your own knowledge base
