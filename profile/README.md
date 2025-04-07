@@ -24,9 +24,9 @@ CZero transforms your scattered documents, notes, and resources into an intellig
 
 ## Our Roadmap
 
-* **Sep 2025:** First Prototype with core knowledge base functionality
+* **September 2025:** First Prototype with core knowledge base functionality
 * **December 2025:** Public Launch with subscription plans
-* **2026:** Enterprise features and advanced AI capabilities
+* **2026 onwards:** Enterprise features and advanced AI capabilities
 
 ## Community & Resources
 
