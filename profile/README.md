@@ -1,12 +1,12 @@
 # CZero Engine: Personal AI Interface
 
-**Empowering privacy-first AI.**
+**Pioneering Hybrid AI**
 
-CZero is a revolutionary client-side AI knowledge base processing platform that helps you leverage your valuable information while maintaining complete ownership and privacy of your data.
+CZero Engine is aiming to become the first personal AI Interface that helps you manage your AI usage context locally into any downstream applicatisons.
 
 ## What is CZero Engine?
 
-CZero Engine transforms your scattered documents, notes, and resources into an intelligent, queryable knowledge base. Our platform uses WebAssembly-based approach to help you rediscover connections within your knowledge, while ensuring your data remains under your control.
+CZero Engine transforms your scattered documents, notes, and resources into an intelligent, queryable knowledge base. The engine helps you prepare your local files and data into AI-ready format so that you can be AI-ready. 
 
 ## Key Features
 
@@ -24,7 +24,7 @@ CZero Engine transforms your scattered documents, notes, and resources into an i
 
 ## Our Roadmap
 
-* **September 2025:** First Prototype with core knowledge base functionality
+* **September 2025:** First Prototype with core knowledge base ("workspace") functionality
 * **December 2025:** Public Launch with subscription plans
 * **2026 onwards:** Enterprise features and advanced AI capabilities
 
